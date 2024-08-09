@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+}
+
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(images/bg-img.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character1{
+    height: 250px;
+    width: 160px;
+    position: absolute;
+    bottom: 10px;
+    left: 100px;
+}
+
+.character2{
+    height: 200px;
+    width: 100px;
+    position: absolute ;
+    right: 240px;
+    bottom: 10px;
+}
